@@ -57,6 +57,7 @@ If you like this plugin and find it useful to manage transients, please leave a 
 * [WP Simple Pay](https://wpsimplepay.com/) – #1 Stripe payments plugin for WordPress. Start accepting one-time or recurring payments without a shopping cart.
 * [Easy Digital Downloads](https://easydigitaldownloads.com/) – The best WordPress eCommerce plugin to sell digital products (eBooks, software, music, and more).
 * [Sugar Calendar](https://sugarcalendar.com/) – A simple event calendar plugin for WordPress that’s both easy and powerful.
+* [Duplicator](https://duplicator.com/) – The Best WordPress Backup and Migration Plugin.
 
 Visit [WPBeginner](https://www.wpbeginner.com/) to learn from our [WordPress Tutorials](https://www.wpbeginner.com/category/wp-tutorials/) and about the [best WordPress plugins](https://www.wpbeginner.com/category/plugins/).
 
@@ -89,6 +90,10 @@ Thank you,
 No. It only works when transients are stored in the database.
 
 == Changelog ==
+
+= 2.0.6 - December 12, 2024 =
+* Fixed: Translation loading using wrong hook
+* Misc: Added product education
 
 = 2.0.5 - December 12, 2023 =
 * Improved: Support for PHP8.2 and below
