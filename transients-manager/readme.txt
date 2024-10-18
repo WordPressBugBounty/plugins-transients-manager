@@ -8,8 +8,8 @@ License:           GNU General Public License v2 or later
 Tags:              cron, tool, transient
 Requires PHP:      5.6.20
 Requires at least: 5.3
-Tested up to:      6.5
-Stable Tag:        2.0.5
+Tested up to:      6.6
+Stable Tag:        2.0.7
 
 Provides a familiar interface to view, search, edit, and delete Transients.
 
@@ -42,6 +42,7 @@ It was originally created by <a href="https://pippinsplugins.com/" rel="friend">
 
 If you like this plugin and find it useful to manage transients, please leave a good rating and consider checking out our other projects:
 
+* [Duplicator](https://duplicator.com/) – Easy, fast and secure WordPress backups and website migration.
 * [OptinMonster](https://optinmonster.com/) – Get more email subscribers with the most popular conversion optimization plugin for WordPress.
 * [WPForms](https://wpforms.com/) – #1 drag & drop online form builder for WordPress (trusted by 5 million sites).
 * [MonsterInsights](https://www.monsterinsights.com/) – See the stats that matter and grow your business with confidence. Best Google Analytics plugin for WordPress.
@@ -57,7 +58,6 @@ If you like this plugin and find it useful to manage transients, please leave a 
 * [WP Simple Pay](https://wpsimplepay.com/) – #1 Stripe payments plugin for WordPress. Start accepting one-time or recurring payments without a shopping cart.
 * [Easy Digital Downloads](https://easydigitaldownloads.com/) – The best WordPress eCommerce plugin to sell digital products (eBooks, software, music, and more).
 * [Sugar Calendar](https://sugarcalendar.com/) – A simple event calendar plugin for WordPress that’s both easy and powerful.
-* [Duplicator](https://duplicator.com/) – The Best WordPress Backup and Migration Plugin.
 
 Visit [WPBeginner](https://www.wpbeginner.com/) to learn from our [WordPress Tutorials](https://www.wpbeginner.com/category/wp-tutorials/) and about the [best WordPress plugins](https://www.wpbeginner.com/category/plugins/).
 
@@ -91,9 +91,11 @@ No. It only works when transients are stored in the database.
 
 == Changelog ==
 
-= 2.0.6 - December 12, 2024 =
-* Fixed: Translation loading using wrong hook
-* Misc: Added product education
+= 2.0.7 - October 18, 2024 =
+* Fix: Security fix
+
+= 2.0.6 - October 3, 2024 =
+* Improved: Product Education
 
 = 2.0.5 - December 12, 2023 =
 * Improved: Support for PHP8.2 and below
